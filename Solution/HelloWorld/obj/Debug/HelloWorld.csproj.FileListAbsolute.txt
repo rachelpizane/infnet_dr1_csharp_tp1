@@ -1,0 +1,7 @@
+C:\Users\pizan\OneDrive\Rachel Pizane\06 - Arquivo\Faculdade\IFNET - ADS\2025_01\Fund de Desenv. com Csharp\TPs e AT\infnet_dr1_csharp_tp1\Solution\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\pizan\OneDrive\Rachel Pizane\06 - Arquivo\Faculdade\IFNET - ADS\2025_01\Fund de Desenv. com Csharp\TPs e AT\infnet_dr1_csharp_tp1\Solution\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\pizan\OneDrive\Rachel Pizane\06 - Arquivo\Faculdade\IFNET - ADS\2025_01\Fund de Desenv. com Csharp\TPs e AT\infnet_dr1_csharp_tp1\Solution\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\pizan\OneDrive\Rachel Pizane\06 - Arquivo\Faculdade\IFNET - ADS\2025_01\Fund de Desenv. com Csharp\TPs e AT\infnet_dr1_csharp_tp1\Solution\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\pizan\OneDrive\Rachel Pizane\06 - Arquivo\Faculdade\IFNET - ADS\2025_01\Fund de Desenv. com Csharp\TPs e AT\infnet_dr1_csharp_tp1\Solution\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\pizan\OneDrive\Rachel Pizane\06 - Arquivo\Faculdade\IFNET - ADS\2025_01\Fund de Desenv. com Csharp\TPs e AT\infnet_dr1_csharp_tp1\Solution\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\pizan\OneDrive\Rachel Pizane\06 - Arquivo\Faculdade\IFNET - ADS\2025_01\Fund de Desenv. com Csharp\TPs e AT\infnet_dr1_csharp_tp1\Solution\HelloWorld\obj\Debug\HelloWorld.pdb

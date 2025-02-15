@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pizan\\OneDrive\\Rachel Pizane\\06 - Arquivo\\Faculdade\\IFNET - ADS\\2025_01\\Fund de Desenv. com Csharp\\TPs e AT\\infnet_dr1_csharp_tp1\\Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6184006A-312B-4D91-B575-CCC25AA5E9FF}|InfoAboutMe\\InfoAboutMe.csproj|c:\\users\\pizan\\onedrive\\rachel pizane\\06 - arquivo\\faculdade\\ifnet - ads\\2025_01\\fund de desenv. com csharp\\tps e at\\infnet_dr1_csharp_tp1\\solution\\infoaboutme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6184006A-312B-4D91-B575-CCC25AA5E9FF}|InfoAboutMe\\InfoAboutMe.csproj|solutionrelative:infoaboutme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB101D0-1694-42D9-B856-CD8B30A78152}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\pizan\\onedrive\\rachel pizane\\06 - arquivo\\faculdade\\ifnet - ads\\2025_01\\fund de desenv. com csharp\\tps e at\\infnet_dr1_csharp_tp1\\solution\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB101D0-1694-42D9-B856-CD8B30A78152}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A166559-025F-4755-9092-81B34FFF59D2}|HelloWorld\\HelloWorld.csproj|c:\\users\\pizan\\onedrive\\rachel pizane\\06 - arquivo\\faculdade\\ifnet - ads\\2025_01\\fund de desenv. com csharp\\tps e at\\infnet_dr1_csharp_tp1\\solution\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A166559-025F-4755-9092-81B34FFF59D2}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pizan\\OneDrive\\Rachel Pizane\\06 - Arquivo\\Faculdade\\IFNET - ADS\\2025_01\\Fund de Desenv. com Csharp\\TPs e AT\\infnet_dr1_csharp_tp1\\Solution\\InfoAboutMe\\Program.cs",
+              "RelativeDocumentMoniker": "InfoAboutMe\\Program.cs",
+              "ToolTip": "C:\\Users\\pizan\\OneDrive\\Rachel Pizane\\06 - Arquivo\\Faculdade\\IFNET - ADS\\2025_01\\Fund de Desenv. com Csharp\\TPs e AT\\infnet_dr1_csharp_tp1\\Solution\\InfoAboutMe\\Program.cs",
+              "RelativeToolTip": "InfoAboutMe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:09:23.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pizan\\OneDrive\\Rachel Pizane\\06 - Arquivo\\Faculdade\\IFNET - ADS\\2025_01\\Fund de Desenv. com Csharp\\TPs e AT\\infnet_dr1_csharp_tp1\\Solution\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\pizan\\OneDrive\\Rachel Pizane\\06 - Arquivo\\Faculdade\\IFNET - ADS\\2025_01\\Fund de Desenv. com Csharp\\TPs e AT\\infnet_dr1_csharp_tp1\\Solution\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:03:44.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pizan\\OneDrive\\Rachel Pizane\\06 - Arquivo\\Faculdade\\IFNET - ADS\\2025_01\\Fund de Desenv. com Csharp\\TPs e AT\\infnet_dr1_csharp_tp1\\Solution\\HelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Program.cs",
+              "ToolTip": "C:\\Users\\pizan\\OneDrive\\Rachel Pizane\\06 - Arquivo\\Faculdade\\IFNET - ADS\\2025_01\\Fund de Desenv. com Csharp\\TPs e AT\\infnet_dr1_csharp_tp1\\Solution\\HelloWorld\\Program.cs",
+              "RelativeToolTip": "HelloWorld\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:52:16.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

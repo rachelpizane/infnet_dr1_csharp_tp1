@@ -1,0 +1,7 @@
+C:\Users\pizan\OneDrive\Rachel Pizane\06 - Arquivo\Faculdade\IFNET - ADS\2025_01\Fund de Desenv. com Csharp\TPs e AT\infnet_dr1_csharp_tp1\Solution\InfoAboutMe\bin\Debug\InfoAboutMe.exe.config
+C:\Users\pizan\OneDrive\Rachel Pizane\06 - Arquivo\Faculdade\IFNET - ADS\2025_01\Fund de Desenv. com Csharp\TPs e AT\infnet_dr1_csharp_tp1\Solution\InfoAboutMe\bin\Debug\InfoAboutMe.exe
+C:\Users\pizan\OneDrive\Rachel Pizane\06 - Arquivo\Faculdade\IFNET - ADS\2025_01\Fund de Desenv. com Csharp\TPs e AT\infnet_dr1_csharp_tp1\Solution\InfoAboutMe\bin\Debug\InfoAboutMe.pdb
+C:\Users\pizan\OneDrive\Rachel Pizane\06 - Arquivo\Faculdade\IFNET - ADS\2025_01\Fund de Desenv. com Csharp\TPs e AT\infnet_dr1_csharp_tp1\Solution\InfoAboutMe\obj\Debug\InfoAboutMe.csproj.AssemblyReference.cache
+C:\Users\pizan\OneDrive\Rachel Pizane\06 - Arquivo\Faculdade\IFNET - ADS\2025_01\Fund de Desenv. com Csharp\TPs e AT\infnet_dr1_csharp_tp1\Solution\InfoAboutMe\obj\Debug\InfoAboutMe.csproj.CoreCompileInputs.cache
+C:\Users\pizan\OneDrive\Rachel Pizane\06 - Arquivo\Faculdade\IFNET - ADS\2025_01\Fund de Desenv. com Csharp\TPs e AT\infnet_dr1_csharp_tp1\Solution\InfoAboutMe\obj\Debug\InfoAboutMe.exe
+C:\Users\pizan\OneDrive\Rachel Pizane\06 - Arquivo\Faculdade\IFNET - ADS\2025_01\Fund de Desenv. com Csharp\TPs e AT\infnet_dr1_csharp_tp1\Solution\InfoAboutMe\obj\Debug\InfoAboutMe.pdb
