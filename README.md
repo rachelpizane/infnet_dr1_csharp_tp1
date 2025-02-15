@@ -1,2 +1,10 @@
-# infnet_dr1_csharp_tp1
-Projeto realizado para o Teste de Perfomance nº 1 da disciplina "Fundamentos de Desenvolvimento com C#" da INFNET
+# 📝 Teste de Perfomance nº 1
+
+## Faculdade
+INFNET - Análise e Desenvolvimento de Sistemas 
+
+## Disciplina Regular (DR)
+Fundamentos de Desenvolvimento com C#
+
+# Status
+Concluído! ⭐
